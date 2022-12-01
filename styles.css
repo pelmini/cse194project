@@ -42,7 +42,7 @@
 
 .stage1_section{
     padding: 60px 60px;
-    background: #EDF7ED;
+    background: #cdddff;
     color: #fff;
 }
 
@@ -88,7 +88,7 @@
 
 .stage2_section{
     padding: 60px 60px;
-    background: #CDF1EB;
+    background: #89bbff;
     color: #fff;
 }
 
@@ -102,19 +102,19 @@
     font-size: 50px;
     color: black;
     margin-bottom: 32px;
-    margin-left: 588px;
+    margin-left: 550px;
     /*margin-right: 0px;*/
 }
 
 .stage2_content {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 500px;
+    grid-template-rows: 910px;
 }
 
 .stage2_text {
     color: black;
-    padding-right: 130px;
+    padding-right: 170px;
 }
 
 .stage2_text p {
@@ -135,7 +135,7 @@
 }
 .stage3_section{
     padding: 60px 60px;
-    background: #ADE7E7;
+    background: #79aaff;
     color: #fff;
 }
 
@@ -227,7 +227,7 @@
 
 .cta_section{
     padding: 60px 60px;
-    background: lightskyblue;
+    background: #cdddff;
     color: #fff;
 }
 
@@ -273,7 +273,7 @@
 
 .about_section{
     padding: 60px 65px;
-    background: lightskyblue;
+    background: #cdddff;
     color: #fff;
 }
 
@@ -318,12 +318,12 @@
 }
 .sources_section{
     padding: 60px 65px;
-    background: lightskyblue;
+    background: #cdddff;
     color: #fff;
 }
 
 .sources_container{
-    display: flex;
+    display: block;
     flex-direction: column;
     justify-content: flex-start;
 }
@@ -332,12 +332,13 @@
     font-size: 50px;
     color: black;
     margin-bottom: 32px;
+    text-align: center;
 }
 
 .sources_content {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 520px;
+    max-width: 500px;
+    margin: auto;
+    display: block;
 }
 
 .sources_text {
