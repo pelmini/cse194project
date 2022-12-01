@@ -271,48 +271,48 @@
     height: 450px;
 }
 
-.about_section{
+.index_section{
     padding: 60px 65px;
     background: #cdddff;
     color: #fff;
 }
 
-.about_container{
+.index_container{
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
 }
 
-.about_container h1{
+.index_container h1{
     font-size: 50px;
     color: black;
     margin-bottom: 32px;
 }
 
-.about_content {
+.index_content {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 520px;
 }
 
-.about_text {
+.index_text {
     color: black;
     padding-right: 20px;
 }
 
-.about_text p {
+.index_text p {
     line-height: 2.3;
     height: 170px;
     width: 600px;
     vertical-align: top;
 }
 
-.about_image {
+.index_image {
     display: flex;
     justify-content: center;
 }
 
-.about_img {
+.index_img {
     width: 500px;
     height: 450px;
 }
