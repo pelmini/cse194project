@@ -200,7 +200,7 @@
 .risk_content {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 500px;
+    grid-template-rows: 630px;
 }
 
 .risk_text {
@@ -220,7 +220,7 @@
     justify-content: center;
 }
 
-.risk2_img {
+.risk_img {
     width: 500px;
     height: 450px;
 }
@@ -246,7 +246,7 @@
 .cta_content {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 500px;
+    grid-template-rows: 550px;
 }
 
 .cta_text {

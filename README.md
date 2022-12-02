@@ -1,2 +1,2 @@
 # CSE_194_Project
-https://pelmini.github.io/cse194project/
+https://pelmini.github.io/cse194project/index.html
